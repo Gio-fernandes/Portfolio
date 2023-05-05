@@ -70,7 +70,7 @@ ul{
 }
 
 li:hover {color: #febc37;}
-li:active {color:#d19df3;}
+ul:active {color:#d19df3;}
 
 body {
 	
