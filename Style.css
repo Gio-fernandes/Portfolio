@@ -70,7 +70,7 @@ li{
 }
 
 li:hover {color: #febc37;}
-li:active {color:#d19df3;}
+li:active {color: #d19df3;}
 
 body {
 	
@@ -107,10 +107,6 @@ text-align: center;}
 img {height: 30px;
 margin-right: 5px;
 margin-left: 5px;}
-
-details {font-weight: bold;
-padding 15px}
-
 
 @media screen and (max-width: 790px){
 	nav.caixa {position: relative;
