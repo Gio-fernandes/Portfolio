@@ -61,7 +61,7 @@ nav .resumo {
 	justify-content: unset;
 }
 
-li{
+ul{
 	font-size: 13px;
 	display: inline-flex;
 	float: right;
@@ -69,8 +69,8 @@ li{
 	
 }
 
-li:hover {color: #febc37;}
-li:active {color: #d19df3;}
+ul:hover {color: #febc37;}
+ul:active {color: #d19df3;}
 
 body {
 	
