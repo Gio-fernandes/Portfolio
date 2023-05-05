@@ -61,7 +61,7 @@ nav .resumo {
 	justify-content: unset;
 }
 
-li{
+ul{
 	font-size: 13px;
 	display: inline-flex;
 	float: right;
