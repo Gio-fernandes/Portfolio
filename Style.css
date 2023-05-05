@@ -61,7 +61,7 @@ nav .resumo {
 	justify-content: unset;
 }
 
-ul{
+li{
 	font-size: 13px;
 	display: inline-flex;
 	float: right;
@@ -70,7 +70,7 @@ ul{
 }
 
 li:hover {color: #febc37;}
-ul:active {color: #d19df3;}
+li:active {color:#d19df3;}
 
 body {
 	
@@ -107,6 +107,7 @@ text-align: center;}
 img {height: 30px;
 margin-right: 5px;
 margin-left: 5px;}
+
 
 @media screen and (max-width: 790px){
 	nav.caixa {position: relative;
@@ -151,6 +152,7 @@ margin-left: 5px;}
 	nav.profissional {margin-left: 25px;
 			margin-right: 25px}
 	
-	img.link {margin-left: 65px;}
+	img.link {
+margin-left: 65px;}
 
 }
