@@ -1,5 +1,5 @@
 header {
-	color: #febc37;
+	color: febc37;
 	font-size:20px;
 	background-color:#000000;
 	padding: 30px;
@@ -69,7 +69,8 @@ ul{
 	
 }
 
-ul:hover {color: #febc37;}
+ul:hover {color: #febc37;
+font-weight: bold;}
 ul:active {color:#d19df3;}
 
 body {
