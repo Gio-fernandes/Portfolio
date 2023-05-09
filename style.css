@@ -110,8 +110,7 @@ margin-right: 5px;
 margin-left: 5px;}
 
 
-@media screen and (max-width: 790px)
-{
+@media screen and (max-width: 790px){
 	nav.caixa {position: relative;
 		top: 0px;
 	 	text-align: center;}
@@ -128,7 +127,8 @@ margin-left: 5px;}
 	a {text-align: center;
 		position: relative;}
 	
-	header {text-align: center;
+	header {padding: 20px;
+		text-align: center;
 		position: relative;}
 	
 	ul {text-align: center;
